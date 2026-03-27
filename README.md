@@ -51,6 +51,10 @@ npm install
 npm run dev
 ```
 
+```bash
+npm run test:watch
+```
+
 ## 🎯 Why This Project?
 
 This project was built with a focus on Webitel's core business: communication automation.
