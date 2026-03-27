@@ -1,0 +1,45 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "tickets": "Tickets",
+    "automation": "Automation",
+    "settings": "Settings"
+  },
+  "ticketStatus": {
+    "open": "Open",
+    "in_progress": "In Progress",
+    "resolved": "Resolved",
+    "closed": "Closed",
+    "escalated": "Escalated"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "profileDescription": "Manage your profile information",
+    "name": "Name",
+    "nameHelp": "Your full name (2-50 characters)",
+    "email": "Email",
+    "emailHelp": "Your email address",
+    "profileUpdated": "Profile updated successfully",
+    "profileUpdateError": "Failed to update profile",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidName": "Name must be between 2 and 50 characters"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email format",
+    "nameTooShort": "Name must be at least 2 characters",
+    "nameTooLong": "Name must not exceed 50 characters"
+  }
+}
